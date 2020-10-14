@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color:red
+}
+a{
+    text-decoration: none;
+    padding: 20px 10px;
+}
